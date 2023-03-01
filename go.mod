@@ -10,15 +10,15 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/martinlindhe/unit v0.0.0-20190604142932-3b6be53d49af
 	github.com/maximbaz/yubikey-touch-detector v0.0.0-20200307130350-24f6f7449a30
-	github.com/spf13/afero v1.6.0
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/afero v1.9.2
+	github.com/stretchr/testify v1.8.1
 	github.com/vishvananda/netlink v1.1.0
 	github.com/zalando/go-keyring v0.1.1
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
-	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/sys v0.0.0-20210908233432-aa78b53d3365
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
-	google.golang.org/api v0.57.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/net v0.7.0
+	golang.org/x/oauth2 v0.5.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/time v0.1.0
+	google.golang.org/api v0.111.0
 	gopkg.in/yaml.v2 v2.4.0
 )
